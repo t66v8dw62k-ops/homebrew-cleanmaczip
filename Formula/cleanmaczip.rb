@@ -2,7 +2,7 @@ class Cleanmaczip < Formula
   desc "Create clean zip archives on macOS without Finder artefacts"
   homepage "https://github.com/t66v8dw62k-ops/homebrew-cleanmaczip"
   url "https://github.com/t66v8dw62k-ops/homebrew-cleanmaczip/archive/refs/tags/v1.tar.gz"
-  sha256 "e902833cdb39fe53a232bc6db4914d4b2259824f2dfa41dfe8a725e1309950cd"
+  sha256 "a555a950c1bd2a7af4512a3312221f2682316c55b94a2ea5931b7f22704f5f91"
   license "MIT"
 
   depends_on :macos
