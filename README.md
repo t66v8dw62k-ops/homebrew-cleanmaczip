@@ -13,3 +13,8 @@ brew install t66v8dw62k-ops/cleanmaczip/cleanmaczip
 cleanmaczip <source_directory>
 ```
 
+## Goal
+
+---
+
+Trying to get 230 stars to submit to home-brew! :D
